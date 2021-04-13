@@ -1,6 +1,6 @@
 name = "bossybae"
 type = "webpack"
-account_id = ""
+account_id = "e5ebd208253fdefc2bc743e96182ecd8"
 workers_dev = true
 route = ""
 zone_id = ""
