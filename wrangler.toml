@@ -1,5 +1,5 @@
 account_id = "e5ebd208253fdefc2bc743e96182ecd8"
-name = "my-site"
+name = "twerksum"
 type = "webpack"
 workers_dev = true
 site = { bucket = "./public" }
