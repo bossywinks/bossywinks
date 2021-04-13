@@ -38,7 +38,7 @@ async function handleEvent(event) {
     if (DEBUG) {
       // customize caching
       options.cacheControl = {
-        bypassCache: true,
+        bypassCache: false,
       }
     }
 
