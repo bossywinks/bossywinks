@@ -2,5 +2,4 @@ account_id = "e5ebd208253fdefc2bc743e96182ecd8"
 name = "docs-site-blah"
 type = "webpack"
 workers_dev = true
-bucket = "./public"
-entry-point = "workers-site"
+bucket = "./public
